@@ -1,0 +1,22 @@
+Location         : F:\anlu_11_2\yanzheng11_2_10_15(project)\project_13\src\td_project\HDMI1.4b_Single_BMP_v1.0_Runs\phy_1
+Running with     : Tang Dynasty v6.2.168116
+                   Copyright (c) 2012-2025 Anlogic Inc.
+Top Model        : top
+Device           : EG4S20BG256
+Speed            : NA
+
+Timing Mode      : final
+Setup            : WNS  -732ps  TNS    -2348ps  NUM_FEPS     6
+Hold             : WNS    -3ps  TNS       -6ps  NUM_FEPS     2
+
+Flow Statistics  :
+---------------------------------------------------------------------------------------------------
+     command     |  #calls  |  wall time   |  cpu time(s)  |  used memory(mb)  |  peak memory(mb)  
+---------------------------------------------------------------------------------------------------
+      route      |    2     |  4m52s(83%)  |   383(81%)    |       1166        |       1166        
+      place      |    2     |   59s(16%)   |    89(18%)    |       1140        |       1140        
+    import_db    |    1     |    0s(0%)    |     0(0%)     |        268        |        268        
+  import_device  |    1     |    0s(0%)    |     0(0%)     |        86         |        86         
+---------------------------------------------------------------------------------------------------
+      total      |    6     |    5m51s     |      472      |       1166        |       1166        
+---------------------------------------------------------------------------------------------------
